@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cps3230.assignment.ScrapperServiceTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 46.801 s - in cps3230.assignment.ScrapperServiceTests

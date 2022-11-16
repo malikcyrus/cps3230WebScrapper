@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: cps3230.assignment.task_two.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 178.506 s <<< FAILURE! - in cps3230.assignment.task_two.TestRunner
+Icon check #3(MarketAlertUM website)  Time elapsed: 20.692 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <icon-property-rent.png> but was: <icon-property-rent.jpg>
+
+Icon check #4(MarketAlertUM website)  Time elapsed: 21.953 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <icon-property-sale.png> but was: <icon-property-sale.jpg>
+
